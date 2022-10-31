@@ -1,0 +1,78 @@
+.navbar_style {
+
+}
+.nav-btn-hover {
+    transition: 0.25s;
+}
+.nav-btn-hover:hover {
+    border: 2px  solid;
+    border-radius: 30px;
+}
+.showCase_style {
+    background-image: url(./img/showcase/filtred.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.showcase_textBlock {
+    /* transform: translateY(350%); */
+}
+.bg-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: hsl(223deg 8% 56%); 
+    /* hsl(223deg 8% 56%)  */
+    border-radius: 50%;
+    transition: 0.25s;
+}
+.bg-icon:hover {
+    background-color: hsl(169deg 100% 37%); 
+}
+.icons {
+    max-width: 22px;
+}
+.down_arrow {
+
+}
+
+.details_about_us {
+    height: fit-content;
+}
+.fuatered_progect {
+    height: fit-content;
+}
+
+.gallery-bg {
+    height: 18vh;
+    background-image: url(./img/start_project/bg-img-strat-project.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer-bg {
+    height: 20vh;
+    background-image: url(./img/portfolio/9f.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.our_servises {
+    background-color: hsl(0deg 0% 95%);
+}
+.the_team {
+    height: fit-content;
+}
+
+.carousel-indicators {
+    position: relative !important;
+}
+#carouselExampleDark {
+    height: fit-content;
+}
+
+
+
